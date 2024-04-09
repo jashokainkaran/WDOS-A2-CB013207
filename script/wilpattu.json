@@ -1,0 +1,38 @@
+{
+    "sections": [
+      {
+        "type": "intro",
+        "imageSrc": "./images/wilpattu-main.jpg",
+        "altText": "Wilpattu National Park",
+        "content": {
+          "title": "Wilpattu National Park",
+          "description": "Untamed beauty, roaming leopards, and nature's embrace. <br> Explore Wilpattu now"
+        }
+      },
+      {
+        "type": "wilpattu",
+        "title": "Why You Should Visit Wilpattu",
+        "items": [
+          {
+            "imageSrc": "./images/veli-vehera-wilpattu.jpg",
+            "altText": "Historical Marvels",
+            "title": "Historical Marvels",
+            "description": "Wilpattu National Park boasts ancient ruins and religious places, adding to its historical significance. Explore the park to discover hidden archeological treasures and learn about Sri Lanka's rich history."
+          },
+          {
+            "imageSrc": "./images/safari-wilpattu.jpg",
+            "altText": "Wilpattu Safari",
+            "title": "Serene Safari Experience",
+            "description": "The park's calm setting and diverse species provide an amazing safari experience.Wilpattu is less congested than other parks, providing a more quiet safari experience."
+          },
+          {
+            "imageSrc": "./images/landscape-wilpattu.jpg",
+            "altText": "Wilpattu Landscape",
+            "title": "Unique Landscape",
+            "description": "The park's scenery has natural lakes, known as 'Willus', that support a healthy ecology and provide a peaceful habitat for wildlife and people."
+          }
+        ]
+      }
+    ]
+  }
+  

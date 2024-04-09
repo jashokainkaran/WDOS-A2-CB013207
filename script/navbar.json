@@ -1,0 +1,20 @@
+{
+    "header": {
+      "logo": "images/logo.jpeg",
+      "navigation": [
+        { "label": "Home", "url": "home.html" },
+        { "label": "Sri Lankan Wildlife", "url": "srilankanwildlife.html" },
+        { "label": "Department of Wildlife Conservation", "url": "department.html" },
+        { "label": "Sri Lankan Leopard", "url": "leopard.html" },
+        { "label": "Animals in Sri Lanka", "url": "animals.html" },
+        {
+          "label": "National Parks",
+          "dropdown": [
+            { "label": "Yala National Park", "url": "yala.html" },
+            { "label": "Wilpattu National Park", "url": "wilpattu.html" }
+          ]
+        }
+      ]
+    }
+  }
+  

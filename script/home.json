@@ -1,0 +1,57 @@
+{
+  "sections": [
+    {
+      "type": "intro",
+      "imageSrc": "./images/home-main.jpg",
+      "altText": "Wildlife in Sri Lanka",
+      "content": {
+        "title": "Welcome to Sri Lankan Wildlife",
+        "description": "Explore the Untamed Beauty of Sri Lankan Wildlife"
+      }
+    },
+    {
+      "type": "habitats",
+      "title": "Discover Diverse Habitats",
+      "items": [
+        {
+          "imageSrc": "./images/sinharaja1.jpg",
+          "altText": "Sinharaja Forest",
+          "title": "Sinharaja Forest",
+          "description": "The Sinharaja Rainforest, a UNESCO World Heritage Site in Sri Lanka's southwest, has 11,187 hectares of biodiversity. It is known as the 'Lion Kingdom,' and it is home to rare flora and animals such as the purple-faced langur.\n\nSinharaja Rainforest is a patchwork of towering canopy trees and bright orchids. This historic refuge, home to secretive species such as the hump-nosed lizard, is more than simply a national treasure."
+        },
+        {
+          "imageSrc": "./images/Hikkaduwa-Coral-Reef.jpg",
+          "altText": "Hikkaduwa Coral Reefs",
+          "title": "Hikkaduwa Coral Reefs",
+          "description": "Hikkaduwa Coral Reefs, near the town of Hikkaduwa on Sri Lanka's southwest coast, are famous for their vibrant marine biodiversity and breathtaking underwater scenery. These coral reefs are part of a marine sanctuary covering about 101 hectares. The area is a haven for many coral species, as well as a haven for a variety of marine creatures.\n\nHikkaduwa Coral Reefs not only contribute to the ecological balance of the region, but they also play a key role in attracting visitors and increasing environmental awareness. The preservation of these reefs is important to the long-term viability of this natural treasure for future generations."
+        },
+        {
+          "imageSrc": "./images/udawalawe.jpg",
+          "altText": "Udawalawe National Park",
+          "title": "Udawalawe National Park",
+          "description": "Udawalawe National Park, located in the heart of Sri Lanka's lush environment, is a haven for animal enthusiasts and nature lovers alike. The park, which spans over 30,000 hectares, is famous for its population of Sri Lankan elephants, providing tourists with an unprecedented chance to see these beautiful beasts in their natural environment.\n\nUdawalawe is home to a broad range of animals, including buffalo, deer, crocodiles, and a plethora of bird species, in addition to the famed elephants. The broad open grasslands and glistening reservoir provide a magnificent background for safari expeditions, with each curve in the route revealing a glimpse into Sri Lanka's untamed beauty. Udawalawe National Park enchants visitors with its richness, making it a must-see for anyone looking for a true safari experience in the heart of the island's wildlife reserves."
+        }
+      ]
+    },
+    {
+      "type": "conservation",
+      "title": "Endangered Species Conservation",
+      "intro": "Learn about our commitment to the conservation of endangered species. Discover the efforts being made to protect and preserve the unique fauna that calls Sri Lanka home.",
+      "items": [
+        {
+          "imageSrc": "./images/turtle-hatchery-hikkaduwa.jpg",
+          "altText": "Hikkaduwa Turtle Hatchery"
+        },
+        {
+          "imageSrc": "./images/elephant-conservation.jpg",
+          "altText": "Pinnawala Elephant Orphanage"
+        },
+        {
+          "imageSrc": "./images/leopard-conservation.jpg",
+          "altText": "Leopards in Yala"
+        }
+      ],
+      "description": "<p>Explore the initiatives focused on protecting the wildlife in Sri Lanka.</p><ol><li>Wildlife conservation efforts in Sri Lanka<ul><li>Protection of national parks and reserves</li><li>Anti-poaching initiatives</li><li>Habitat restoration projects</li></ul></li><li>Species specific conservation programs<ul><li>Elephant conservation</li><li>Leopard conservation</li><li>Turtle conservation</li></ul></li><li>Getting involved in wildlife conservation in Sri Lanka<ul><li>Volunteer opportunities</li><li>Donation options</li><li>Educational programs</li></ul></li></ol>"
+    }
+  ]
+}

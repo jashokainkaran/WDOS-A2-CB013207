@@ -1,0 +1,38 @@
+{
+    "sections": [
+      {
+        "type": "intro",
+        "imageSrc": "./images/yala-birds.jpg",
+        "altText": "Yala National Park",
+        "content": {
+          "title": "Yala National Park",
+          "description": "Discover Yala: Leopards, adventure, and nature's allure"
+        }
+      },
+      {
+        "type": "yala",
+        "title": "Why You Should Visit Yala",
+        "items": [
+          {
+            "imageSrc": "./images/yala-birds.jpg",
+            "altText": "Yala Wildlife",
+            "title": "Unparralled Wildlife Diversity",
+            "description": "Explore Yala National Park to see an incredible diversity of species. Yala National Park provides a rare opportunity to witness Sri Lanka's vast biodiversity in its natural setting, including the magnificent leopard, elephants, crocodiles, and other bird species."
+          },
+          {
+            "imageSrc": "./images/yala-safari.jpg",
+            "altText": "Yala Safari",
+            "title": "Unforgettable Safari Adventures",
+            "description": "Join an adventurous safari journey in Yala, where the harsh landscape and various ecosystems provide an enticing background for exploration. The excitement of encountering rare animals, like as leopards, in their natural habitat makes Yala a must-see location for nature lovers and photographers looking for an outstanding safari experience."
+          },
+          {
+            "imageSrc": "./images/yala-scenery.jpg",
+            "altText": "Yala Landscape",
+            "title": "Spectacular Scenary and Landscapes",
+            "description": "Beyond its fauna, Yala National Park has stunning vistas that enhance the visitor's experience. Explore beautiful beaches, stunning lakes, and lush greenery to create a picturesque backdrop that enhances the thrill of discovering animals. Yala's diversified environment makes it an ideal location for anyone looking for a complete and visually spectacular trip experience."
+          }
+        ]
+      }
+    ]
+  }
+  

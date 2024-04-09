@@ -1,0 +1,44 @@
+{
+    "sections": [
+      {
+        "type": "intro",
+        "imageSrc": "./images/wildlife-main.jpg",
+        "altText": "Wildlife in Sri Lanka",
+        "content": {
+          "title": "Explore Sri Lankan Wildlife",
+          "description": "Embark on a journey through Sri Lanka's Wildlife"
+        }
+      },{
+        "type": "locations",
+        "locations": [
+            {
+                "name": "Horton Plains National Park",
+                "intro": "Nestled in the central highlands, Horton Plains National Park boasts diverse ecosystems, including montane grasslands and cloud forests. Encounter unique species adapted to the cool climate, such as the elusive Sambar deer and vibrant birdlife.",
+                "images": [
+                    { "src": "images/horton-landscape.jpg", "alt": "Horton Plains National Park" },
+                    { "src": "images/horton-wildlife.jpg", "alt": "Wildlife in Horton Plains" }
+                ],
+                "mapSrc": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15846.696154043711!2d80.8023333!3d6.809446!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae3882edb4b78ef%3A0xcebca89153777249!2sHorton%20Plains%20National%20Park!5e0!3m2!1sen!2slk!4v1705474161163!5m2!1sen!2slk"
+            },
+            {
+                "name": "Udawalawe National Park",
+                "intro": "Udawalawe, situated in the southern part of Sri Lanka, is renowned for its large population of Asian elephants. The park's diverse landscape also supports waterbirds, crocodiles, and a variety of mammalian species.",
+                "images": [
+                    { "src": "images/udawalawe1.jpg", "alt": "Udawalawe National Park" },
+                    { "src": "images/udawalawe2.jpg", "alt": "Wildlife in Udawalawe National Park" }
+                ],
+                "mapSrc": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15857.48321526931!2d80.876319!3d6.4746288!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae408ff88887e79%3A0xaf12e79ffbd980d7!2sUdawalawe%20National%20Park!5e0!3m2!1sen!2slk!4v1705482938715!5m2!1sen!2slk"
+            },
+            {
+                "name": "Kumana National Park",
+                "intro": "Kumana National Park is a national park located in the southeast corner of Sri Lanka, in the Ampara district. It covers an area of 35,664 hectares and is bordered by the Kumubukkan Oya river to the west and the southeastern coast that runs to Panama to the south. The park is renowned for its fauna, particularly its large flocks of migratory waterfowl and wading birds, and is home to over 200 species of birds. The park is also home to mammals such as elephants, leopards, golden jackals, wild boar, European otter, and the endangered fishing cat.",
+                "images": [
+                    { "src": "images/kumana1.jpg", "alt": "Kumana National Park" },
+                    { "src": "images/kumana2.jpg", "alt": "Wildlife in Kumana National Park" }
+                ],
+                "mapSrc": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15854.371357766817!2d81.6692532!3d6.5729598!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae5c8b55f7156a3%3A0xce605bccbb80201a!2sKumana%20National%20Park!5e0!3m2!1sen!2slk!4v1705483878624!5m2!1sen!2slk"
+            }
+        ]
+    }
+    ]
+    }

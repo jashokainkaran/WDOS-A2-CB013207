@@ -1,0 +1,57 @@
+{
+    "sections": [
+        {
+            "type": "intro",
+            "imageSrc": "./images/animals-main.jpg",
+            "altText": "Animals in Sri Lanka",
+            "content": {
+              "title": "Indigenous Animals of Sri Lanka",
+              "description": "Find out about the rich biodiversity that Sri Lanka is blessed with"
+            }
+        },
+        {
+            "type": "animalsSection",
+            "heading": "Indigenous Animals of Sri Lanka",
+            "intro": "Learn about our commitment to the conservation of endangered species. Discover the efforts being made to protect and preserve the unique fauna that calls Sri Lanka home.",
+            "items": [
+                {
+                    "imageSrc": "images/sri-lankan-junglefowl-sri-lanka-945x630.jpg",
+                    "altText": "Sri Lankan Junglefowl",
+                    "title": "Sri Lankan Junglefowl",
+                    "description": "The Sri Lankan junglefowl (Gallus lafayettii), sometimes known as Lafayette's junglefowl or Ceylon junglefowl, is a bird species native to Sri Lanka. It is the national bird of the country and is closely related to the more well-known red junglefowl."
+                },
+                {
+                    "imageSrc": "images/mugger-crocodile.jpeg",
+                    "altText": "Mugger Crocodile",
+                    "title": "Mugger Crocodile",
+                    "description": "The Mugger Crocodile (Crocodylus palustris) is the second biggest reptile in Sri Lanka. It is a medium-sized crocodilian species that lives in freshwater settings ranging from southern Iran to the Indian subcontinent and Sri Lanka."
+                },
+                {
+                    "imageSrc": "images/purple-faced-langur.webp",
+                    "altText": "Purple-faced Langur",
+                    "title": "Purple-faced Langur",
+                    "description": "The Purple-faced Langur (Semnopithecus vetulus), also recognized as the Purple-faced Leaf Monkey, is an arboreal monkey native to Sri Lanka, characterized by its lengthy tail."
+                }
+            ]
+        },
+        {
+            "type": "nationalParks",
+            "heading": "National Parks of Sri Lanka",
+            "intro": "Are you ready to observe these magnificent animals in their natural habitats? Learn more about Sri Lanka's wildlife by visiting the following national parks.",
+            "items": [
+                {
+                    "imageSrc": "images/yala-park.jpg",
+                    "altText": "Yala National Park",
+                    "title": "Yala National Park",
+                    "description": "Yala National Park, situated in Sri Lanka, provides tourists the chance to view different wildlife, including Sri Lankan leopards, elephants, sloth bears, and many bird species."
+                },
+                {
+                    "imageSrc": "images/wilpattu.jpg",
+                    "altText": "Wilpattu National Park",
+                    "title": "Wilpattu National Park",
+                    "description": "Wilpattu National Park, set in northwest Sri Lanka, lets you witness diverse wildlife like leopards, elephants, sloth bears, and various bird species."
+                }
+            ]
+        }
+    ]
+}

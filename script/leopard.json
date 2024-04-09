@@ -1,0 +1,57 @@
+{
+    "sections": [
+        {
+            "type" : "intro",
+            "imageSrc" : "./images/leopard-main.jpg",
+            "altText" : "Sri Lankan Leopard",
+            "content" : {
+                "title" : "Sri Lankan Leopard",
+                "description" : "Explore the Untamed Beauty of Sri Lankan Wildlife"
+            }
+        },
+        {
+            "type":"habitats",
+            "title" : "Leopard Habitats in Sri Lanka",
+            "items" : [
+                {
+                    "imageSrc": "./images/leopards-yala.jpg",
+                    "altText": "Leopards in Yala",
+                    "title": "Yala National Park",
+                    "description": "Yala National Park in Sri Lanka is well-known for providing excellent opportunities to see the elusive Sri Lankan Leopard (Panthera pardus kotiya). Yala, the country's premier wildlife refuge, is home to a large population of these gorgeous felines. Leopards in Yala display peculiar characteristics such as tree climbing, which is uncommon in other leopard groups. The park's many terrains make an ideal setting for tourists to observe their hunting skills and everyday habits."
+                },
+                {
+                    "imageSrc": "./images/leopard-wilpattu.jpg",
+                    "altText": "Leopards in Wilpattu",
+                    "title": "Wilpattu National Park",
+                    "description": "Wilpattu, recognized as Sri Lanka's largest national park, stands out as a prime location for observing leopards. The park's combination of scrublands, lakes, and thick forests presents leopards with varied and abundant hunting opportunities. The distinctive topography of Wilpattu offers a fresh and unique glimpse into the daily lives of Sri Lankan leopards."
+                },
+                {
+                    "imageSrc" : "./images/leopard-hortonplains.jpg",
+                    "altText" : "Leopards in Horton Plains",
+                    "title" : "Horton Plains National Park",
+                    "description" : "Horton Plains National Park, is also a spot for leopard sightings. While leopards are not as commonly spotted in Horton Plains as in some other national parks, the park is known to be home to these elusive predators. The leopards in Horton Plains are well-adapted to the montane grasslands and cloud forests that dominate the area." 
+                }
+            ]
+        },
+        {
+            "type" : "threats",
+            "title" : "Threats to the Sri Lankan Leopards",
+            "items" : [
+                {
+                    "imageSrc" : "./images/habitat-loss.webp",
+                    "altText" : "Loss of Habitats",
+                    "title" : "Loss of Habitat",
+                    "description" : "Rapid urbanization and agricultural expansion of humans into leopard territories lead to loss of habitat for the leopards endangering them."
+                },
+                {
+                    "imageSrc" : "./images/human-leopard-conflict.jpg",
+                    "altText" : "Human-Leopard Conflict",
+                    "title" : "Human Leopard Conflict",
+                    "description" : "Human-leopard conflicts arise as a result of the Sri Lankan Leopard's habitat degradation and human encroachment on leopard territory. Leopards are frequently trapped in snares and murdered in reprisal for cattle depredation, resulting in the loss of a lot of these magnificent beasts."
+                }
+            ]
+
+        }
+    ]
+        
+}

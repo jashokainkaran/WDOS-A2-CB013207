@@ -1,0 +1,47 @@
+{
+    "sections": [
+        {
+            "type": "deptIntroduction",
+            "content": {
+                "container": {
+                    "iframe": {
+                        "src": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15843.782988928731!2d79.9198057!3d6.8970927!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae250aa85489b1f%3A0xd8773339b6b43dbb!2sDepartment%20of%20Wildlife%20Conservation!5e0!3m2!1sen!2slk!4v1705466431531!5m2!1sen!2slk",
+                        "width": "600",
+                        "height": "450",
+                        "style": "border:0;",
+                        "allowfullscreen": "yes",
+                        "loading": "lazy",
+                        "referrerpolicy": "no-referrer-when-downgrade",
+                        "class": "photos"
+                    },
+                    "description": {
+                        "heading": "Department of Wildlife Conservation",
+                        "paragraph": "The Department of Wildlife Conservation, founded in October 1949, is committed to maintaining and safeguarding Sri Lanka's various environments and animals. In response to the crucial need for long-term conservation, the department works hard to maintain the coexistence of human activities and the natural environment. The Fauna and Flora Protection Ordinance No. 2 of 1937 provides legal protection for each individual species, demonstrating the department's dedication to maintaining Sri Lanka's unique biodiversity. Beyond preservation, activities include extensive research, habitat management, and community programming. Through these activities, the Department of Wildlife Conservation hopes to establish a healthy link between people and the island's rich biological environments, preserving the conservation and vitality of our natural heritage."
+                    }
+                }
+            }
+        },
+        {
+            "type": "protectedAreas",
+            "heading": "Protected Areas",
+            "intro": "Discover the pristine beauty and ecological significance of Sri Lanka's protected areas, where diverse habitats are conserved to ensure the survival of numerous plant and animal species.",
+            "items": [
+                {
+                    "imageSrc": "./images/kumana.jpg",
+                    "altText": "Kumana National Park",
+                    "title": "Kumana National Park"
+                },
+                {
+                    "imageSrc": "./images/hakgala.jpg",
+                    "altText": "Hakgala Strict Natural Reserve",
+                    "title": "Hakgala Strict Natural Reserve"
+                },
+                {
+                    "imageSrc": "./images/udawatte-kele.jpg",
+                    "altText": "Udawatta Kele Sanctuary",
+                    "title": "Udawatta Kele Sanctuary"
+                }
+            ]
+        }
+    ]
+}
